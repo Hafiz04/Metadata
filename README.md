@@ -1,10 +1,10 @@
 # Metadata
 
-| Picture        | Tools             | Link / Command       | POC  | Analysis |
-|----------------|-------------------|----------------------|------|----------|
-| ocean.jpg|
-|Computer.jpg|
-|dog.jpg|
-|computer.jpg|
-|solitaire.jpg|
-|rubiks.jpg|
+| Picture        | Tools             | Link / Command       | Screenshot  | Analysis |
+|----------------|-------------------|----------------------|-------------|----------|
+| ocean.jpg|exiftool|
+|Computer.jpg|Hexeditor|
+|dog.jpg|binwalk|
+|computer.jpg|strings|
+|solitaire.jpg|file|
+|rubiks.jpg|file|
