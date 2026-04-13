@@ -9,4 +9,4 @@
 |computer.jpg|strings|https://www.dcode.fr/strings-extractor|![image alt](https://github.com/Hafiz04/Metadata/blob/d4cb6796652b14504435dd777e841b141bc76728/string.png)|Extracts all readable text (strings) from a file, similar to the Linux strings command|
 ||Kali Linux|strings computer.jpg|![image alt](https://github.com/Hafiz04/Metadata/blob/3f3d2901ca76dab975a0bc860ba59ec0affff2a8/strings.kali.png)||
 |solitaire.jpg|file|file solitaire.jpg|![image alt](https://github.com/Hafiz04/Metadata/blob/16a094a6309961a392972c7321cb834973c0fd28/solitaire.png)|the exe file is actually a PNG file|
-|rubiks.jpg|file|file rubiks.jpg|![image alt]()|the jpg file is actually a PNG file|
+|rubiks.jpg|file|file rubiks.jpg|![image alt](https://github.com/Hafiz04/Metadata/blob/5945999f53b777e23b1ae6b97b22a910f03ab7c0/rubiks.png)|the jpg file is actually a PNG file|
