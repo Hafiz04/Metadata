@@ -8,5 +8,5 @@
 |dog.jpg|binwalk|binwalk dog.jpg <br>binwalk -e dog.jpg<br>cd _dog.jpg.extracted/|![image alt](https://github.com/Hafiz04/Metadata/blob/bef4e0208e95680c6c1b99c0610dbf2c1977c64e/binwalk.png)|a firmware analysis tool that scans files to find hidden/embedded files inside them|
 |computer.jpg|strings|https://www.dcode.fr/strings-extractor|![image alt](https://github.com/Hafiz04/Metadata/blob/d4cb6796652b14504435dd777e841b141bc76728/string.png)|Extracts all readable text (strings) from a file, similar to the Linux strings command|
 ||Kali Linux|strings computer.jpg|![image alt](https://github.com/Hafiz04/Metadata/blob/3f3d2901ca76dab975a0bc860ba59ec0affff2a8/strings.kali.png)||
-|solitaire.jpg|file|file solitaire.jpg|![image alt]()||
-|rubiks.jpg|file|file rubiks.jpg|![image alt]()||
+|solitaire.jpg|file|file solitaire.jpg|![image alt]()|the exe file is actually a PNG file|
+|rubiks.jpg|file|file rubiks.jpg|![image alt]()|the jpg file is actually a PNG file|
